@@ -3,9 +3,8 @@
 This project focuses on completing incomplete sentences
 
 ## Models
-There are two models in this project:
+There is a single model in this project:
 * LSTM (Along with other dense layers)
-* Transformer (Not implemented currently)
 
 ## LSTM Model Architecture
 
